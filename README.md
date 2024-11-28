@@ -1,5 +1,7 @@
 ## Bem vindo ao meu perfil! Eu sou o Vinicius Valverde 👋
 
+<img src = "banner.gif" width = "90%" height = "auto" margin = "20px" >
+
 - 👨🏻‍💻 Atualmente eu estou cursando Desenvolvimento de Sistemas no SENAI Valinhos-sp
 - 📚 Estou constantemente buscando meu aperfeiçoamento e sempre apto á aprender coisas novas 
 - 🤝 A sua contribuição ou seu feedback é sempre bem vindo !
@@ -20,4 +22,4 @@
   </a>
 </div>
 
-<img src "banner.gif" width = "5rem" height = "auto" >
+

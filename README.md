@@ -1,16 +1,23 @@
-## Hi there 👋
+## Bem vindo ao meu perfil! Eu sou o Vinicius Valverde 👋
 
-<!--
-**viniciusValverde1410/viniciusValverde1410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨🏻‍💻 Atualmente eu estou cursando Desenvolvimento de Sistemas no SENAI Valinhos-sp
+- 📚 Estou constantemente buscando meu aperfeiçoamento e sempre apto á aprender coisas novas 
+- 🤝 A sua contribuição ou seu feedback é sempre bem vindo !
 
-Here are some ideas to get you started:
+## Entre em contato comigo de alguma forma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="badges">  
+  <a href = "https://www.youtube.com/c/DotcodeEdu">
+  <img src="https://img.shields.io/badge/YouTube-d83b7d?style=for-the-badge&logo=youtube&logoColor=white" alt="Linkedin"/>
+  </a>
+  
+  <a href = "https://instagram.com/ricarthlima">
+    <img src="https://img.shields.io/badge/Instagram-1e0e31?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  
+  <a href = "https://twitter.com/ricarthlima">
+    <img src="" alt="Linkedin Badge"/>
+  </a>
+</div>
+
+<img src "banner.gif" width = "5rem" height = "auto" >

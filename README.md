@@ -9,24 +9,24 @@
 
 ## 🛠️ Tools and Technologies i use
 
+ - ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
  - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  
  - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
- - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)  
+ - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+ - ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)  
  - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
- - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
- - ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)  
- - ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+ - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)  
 
 ---
 
 ## 🚀 Highlighted Projects
 
-### [💻 Portfolio Website](https://github.com/viniciusValverde1410/portfolio)  
-A responsive personal website showcasing my projects and skills. Built with **HTML5, CSS3, and JavaScript**.
+### [💻 Study portal - Math ](https://github.com/F3rNnd4/projeto-portal-matematica)  
+#### A website that is a study portal, integrated with other disciplines. Built with **HTML5**, **CSS3**, and **JavaScript** and requested by the instructor.
 
-### [📂 CRUD Application](https://github.com/viniciusValverde1410/crud-app)  
-A full-stack CRUD application developed with **Node.js** and **PostgreSQL**, featuring user authentication and dynamic content.
+### [📂 Back-end system ](https://github.com/viniciusValverde1410/atividadebets)  
 
+#### A back-end registration system requested by the instructor and developed with **Javascript** **Node.js** and **Postman**.
 ---
 
 ## 📊 GitHub Statistics  
@@ -46,11 +46,8 @@ A full-stack CRUD application developed with **Node.js** and **PostgreSQL**, fea
 
 Feel free to reach out to me through any of the links below:  
 
----
-
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vinicius.valverde@aluno.senai.br)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/vinícius-valverde-b987a8339)  
-
 
 ---
 

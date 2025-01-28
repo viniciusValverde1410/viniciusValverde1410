@@ -1,7 +1,7 @@
 
 # 👋 Welcome to My Profile! I'm **Vinicius Valverde**  
 
-🎓 **Software Development Student** at SENAI Valinhos-SP.  
+🎓 **Software Development Student** at SENAI Valinhos-Br.  
 📖 Constantly seeking **continuous learning** and striving for **personal and professional growth**.  
 🤝 Your **contribution** or **feedback** is always welcome!
 

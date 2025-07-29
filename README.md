@@ -21,8 +21,8 @@
 
 ## 🚀 Highlighted Projects
 
-### [💻 Study portal - Math ](https://github.com/F3rNnd4/projeto-portal-matematica)  
-#### A website that is a study portal, integrated with other disciplines. Built with **HTML5**, **CSS3**, and **JavaScript** and requested by the instructor.
+### [💻 The 20 Brazilians Stars ⭐ ](https://github.com/giovannig10/The20BraziliansStars_WEB.git)  
+#### A portal covering the 20 teams competing in the Brazilian championship and providing specific information (full stack).
 
 ### [📂 Back-end system ](https://github.com/viniciusValverde1410/atividadebets)  
 

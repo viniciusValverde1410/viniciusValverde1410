@@ -31,6 +31,10 @@
 
 ## 📊 GitHub Statistics  
 
+<div>
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=viniciusValverde1410&theme=merko" alt="MatinT-SA github readme activity graph" width="60%" />
+</div>
+
 ### Most Used Languages  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusValverde1410&layout=compact&theme=radical)](https://github.com/viniciusValverde1410)
 

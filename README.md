@@ -24,8 +24,8 @@
 
 ## 🚀 Highlighted Projects
 
-### [💻 The 20 Brazilians Stars ⭐ ](https://github.com/giovannig10/The20BraziliansStars_WEB.git)  
-#### A portal covering the 20 teams competing in the Brazilian championship and providing specific information (full stack).
+### [💻 Corinthains Site ](https://github.com/viniciusValverde1410/corinthiansWeb.git)  
+#### A website containing all the information about Sport Club Corinthians Paulista.
 
 ### [📂 Back-end system ](https://github.com/viniciusValverde1410/atividadebets)  
 

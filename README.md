@@ -7,6 +7,15 @@
 
 ---
 
+<div align="center">
+ 
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31yjcxeg2szgxazlvond6uvwfrxi&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false"/>
+  </a>
+</div>
+
+---
+
 ## 🛠️ Tools and Technologies i use
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)<br>
@@ -56,17 +65,6 @@
 
 ---
 
-
-<div align="center">
-
-# Codando agora ao som de 🎵
- 
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31yjcxeg2szgxazlvond6uvwfrxi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false"/>
-  </a>
-</div>
-
----
 
 ## 📬 Get in Touch  
 
